@@ -1,12 +1,12 @@
-**River Cleaning Robot**
+# River Cleaning Robot
 
 
-**Overview**
+## Overview
 
   The River Cleaning Robot project is designed to help clean rivers and other water bodies by removing floating waste. This project aims to contribute to environmental sustainability by addressing water pollution.
 
 
-**Features**
+## Features
 
 Automated waste collection.
 
@@ -17,7 +17,7 @@ Efficient cleaning mechanism for non floating water bodies.
 Mobile app to control it.
 
 
-**Components Used**
+## Components Used
 
   Arduino Uno
   
@@ -28,32 +28,39 @@ Mobile app to control it.
   L239D Motor Driver 
   
 
-**Library Used**
+## Library Used
 Adafruit Motor Shield library(V1 Firmware)
 
   
-**Installation and Setup**
+## Installation and Setup
 
-1. Hardware Setup:
+### 1. Hardware Setup:
 
    Get all the required componenets mentioned in components used.
    
    Follow the circuit diagram and assemble the circuit.
 
-2. Software Installation
+### 2. Software Installation
 
    Download the Code: Clone this repository or download the code directly as a ZIP file.
-    If cloning use: gh repo clone Sandesh-077/River-cleaning-robot      |     https://github.com/Sandesh-077/River-cleaning-robot.git
+    If cloning use: 
+```
+    gh repo clone Sandesh-077/River-cleaning-robot
+```
+OR
+``` 
+    https://github.com/Sandesh-077/River-cleaning-robot.git
+```
     
    Install all the mentioned library.
    
    Upload the code to arduino through Arduino IDE
 
-3. App Installation
+### 3. App Installation
 
    Download and Install the apk in your mobile device.
 
-4. Configuration and Testing
+### 4. Configuration and Testing
 
    Pair the bluetooth module with your smartphone.
    
